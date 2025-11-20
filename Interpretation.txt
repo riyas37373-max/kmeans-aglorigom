@@ -1,0 +1,5 @@
+
+## Interpretation
+
+The synthetic dataset is generated with 4 underlying blobs.  
+Using the Elbow method on inertia values for K = 1…10, the curve shows a clear "elbow" around K = 4, which matches the true number of clusters in the data.

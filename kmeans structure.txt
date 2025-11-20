@@ -1,0 +1,10 @@
+kmeans-from-scratch/
+│
+├── README.md
+├── requirements.txt
+├── src/
+│   ├── data_generation.py
+│   ├── kmeans_scratch.py
+│   └── elbow_method.py
+└── notebooks/
+    └── kmeans_demo.ipynb  
